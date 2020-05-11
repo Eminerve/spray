@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
-    <title>Spray-it Projet Na╠èt Bra</title>
+    <title>Spray-it Projet Nåt Bra</title>
   </head>
   <body>
     <?php include("../nav1.php"); ?>
@@ -36,7 +36,7 @@
         </figure>
       </article>
       <aside class="laius">
-        <h1>Na╠èt Bra</h1>
+        <h1>Nåt Bra</h1>
         <p>Once upon a time Franck met Frida the owner of a very nice vintage shop based at Sickla Strand in Nacka. After a long talk about design, art and life they developed a strong friendship. Naturally they decided to collaborate on furniture. Frida find 3 pieces of furniture (industrial bench carpenters) and asked Grymt to paint on it. Since the furniture on wheels look like small wagons, Franck chose to paint the first one like the Parisian subway with a principal character pressed against the window, looking for the latest graffiti along the rail (like him when he was a kid). Nabil painted the other two; one with an illustration in black and white and the second one with a real colorful graffiti! These pieces was on sale at the shop.</p>
         <p>12.06.15</p>
         <p></p>

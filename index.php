@@ -94,6 +94,25 @@
 						</div>
           </a>
 			</div>
+
+      <div class="galerie commission">
+           <a href="pages-projet/Nåt_Bra.php"><img src="images/projets/commissions/Na╠èt Bra/na╠èt_01-3.jpg" alt="Na╠èt Bra" />
+             <div class="text">
+               <h3>Nåt Bra</h3>
+               <p><em>12.06.15</em></p>
+            </div>
+          </a>
+      </div>
+
+      <div class="galerie commission">
+           <a href="pages-projet/St._Eriksgatan_66.php"><img src="images/projets/commissions/St. Eriksgatan 66/wall66_21.jpg" alt="St. Eriksgatan 66" />
+             <div class="text">
+               <h3>St. Eriksgatan 66</h3>
+               <p><em>08.05.15</em></p>
+            </div>
+          </a>
+      </div>
+
       <div class="galerie workshop">
 			     <a href="pages-projet/projet_sickla.php"><img src="images/projets/Sickla/IMG_6436.jpeg" alt="Sickla" />
              <div class="text">
@@ -102,14 +121,7 @@
 						</div>
           </a>
 			</div>
-      <div class="galerie graphique">
-			     <a href="#"><img src="images/projets/Paint_ball/Paint ball.jpeg" alt="Paint Ball" />
-             <div class="text">
-               <h3>Paint Ball</h3>
-               <p><em>30.03.19</em></p>
-						</div>
-          </a>
-			</div>
+
       <div class="galerie commission">
 			     <a href="pages-projet/Turnable_Tables.php"><img src="images/projets/Events/Turnable_Tables/IMG_8156.jpeg" alt="Turnable Tables" />
              <div class="text">
@@ -127,6 +139,9 @@
 						</div>
           </a>
 			</div>
+
+
+
     </section>
 
     <section class="references">

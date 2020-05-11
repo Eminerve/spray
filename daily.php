@@ -8,6 +8,41 @@
   <body>
     <?php include("nav.php"); ?>
 
+    <!-- <section class="principal">
+      <article class="photo">
+        <figure>
+          <img src="images/daily/2020/" alt="daily spray it">
+          <figcaption></figcaption>
+        </figure>
+        <figure>
+          <img src="images/daily/2020/" alt="daily spray it">
+          <figcaption></figcaption>
+        </figure>
+      </article>
+      <aside class="laius">
+        <h1></h1>
+        <p></p>
+        <p></p>
+        <p></p>
+      </aside>
+    </section> -->
+
+    <section class="principal">
+      <article class="photo">
+
+        <figure>
+          <img src="images/daily/2020/Holem-Covid-19-City-web.jpg" alt="daily spray it">
+          <figcaption></figcaption>
+        </figure>
+      </article>
+      <aside class="laius">
+        <h1>Holem Covid-19 City</h1>
+        <p>Stockholm</p>
+        <p>10.05.20</p>
+        <p></p>
+      </aside>
+    </section>
+
     <section class="principal">
       <article class="photo">
         <figure>
@@ -52,55 +87,23 @@
     <section class="principal">
       <article class="photo">
         <figure>
-          <img src="images/daily/daily3.png" alt="daily spray it">
-          <figcaption>Madame Mim</figcaption>
+          <img src="images/daily/2017/Aztek.jpg" alt="daily spray it">
+          <figcaption></figcaption>
         </figure>
         <figure>
-          <img src="images/daily/daily4.png" alt="daily spray it">
-          <figcaption>Merlin et Archimède</figcaption>
+          <a href="images/daily/2017/Aztec-Kash-Holem-Rymd.jpg"><img src="images/daily/2017/Aztec-Kash-Holem-Rymd.jpg" alt="daily spray it"></a>
+          <figcaption></figcaption>
         </figure>
       </article>
       <aside class="laius">
-        <h1>Mim ou Merlin ?</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-          in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        <p>jj.mm.aa</p>
-        <p>lieu</p>
+        <h1>Aztek 2017</h1>
+        <p></p>
+        <p></p>
+        <p></p>
       </aside>
     </section>
-    <section class="principal">
-      <article class="photo">
-        <figure>
-          <img src="images/daily/daily5.png" alt="daily spray it">
-          <figcaption>Merlin et Archimède à la bombe</figcaption>
-        </figure>
-      </article>
-      <aside class="laius">
-        <h1>Tout sur tout ?</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-          in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        <p>jj.mm.aa</p>
-        <p>lieu</p>
-      </aside>
-    </section>
-    <section class="principal">
-      <article class="photo">
-        <figure>
-          <img src="images/daily/daily6.png" alt="daily spray it">
-          <figcaption>Sunday</figcaption>
-        </figure>
-      </article>
-      <aside class="laius">
-        <h1>Sunday</h1>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor
-          in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
-        <p>jj.mm.aa</p>
-        <p>lieu</p>
-      </aside>
-    </section>
+
+
 
     <?php include("footer.php"); ?>
 

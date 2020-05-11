@@ -67,9 +67,9 @@
           </a>
 			</div>
       <div class="galerie commission">
-           <a href="pages-projet/Nafet_Bra.php"><img src="images/projets/commissions/Na╠èt Bra/na╠èt_01-3.jpg" alt="Na╠èt Bra" />
+           <a href="pages-projet/Nåt_Bra.php"><img src="images/projets/commissions/Na╠èt Bra/na╠èt_01-3.jpg" alt="Na╠èt Bra" />
              <div class="text">
-               <h3>Na╠èt Bra</h3>
+               <h3>Nåt Bra</h3>
                <p><em>12.06.15</em></p>
             </div>
           </a>
@@ -277,8 +277,8 @@
   {
   	width: 100%;
   	height: 250px;
-    opacity: 0.3;
-  	transition: opacity 0.7s;
+    opacity: 0.15;
+    transition: opacity 0.5s;
   }
   </style>
   <script>
