@@ -1,0 +1,123 @@
+@font-face {
+  font-family: 'OpenSans';
+  src: url('../fonts/OpenSans-Light.ttf');
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../fonts/OpenSans-Regular.ttf');
+}
+
+@font-face {
+  font-family: 'OpenSans';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../fonts/open-sans-semibold.ttf');
+}
+
+  body {
+  animation: fadeIn ease 3s;
+  -webkit-animation: fadeIn ease 3s;
+  -moz-animation: fadeIn ease 3s;
+  -o-animation: fadeIn ease 3s;
+  -ms-animation: fadeIn ease 3s;
+  }
+
+
+  @keyframes fadeIn{
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+  }
+
+  @-moz-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+  }
+
+  @-webkit-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+  }
+
+  @-o-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+  }
+
+  @-ms-keyframes fadeIn {
+  0% {
+    opacity:0;
+  }
+  100% {
+    opacity:1;
+  }
+  }
+
+  .principal{
+    font-family: 'OpenSans';
+    display: flex;
+    padding-top: 8rem;
+    width: 90%;
+    margin: auto;
+    align-items: flex-start;
+  }
+
+  figure{
+    width: 750px;
+    padding-bottom: 4rem;
+  }
+
+  figure img{
+    width: 100%;
+  }
+
+  .laius {
+    width: 100%;
+    margin-left: 5%;
+  }
+
+  .laius h1 {
+    font-size: 29px;
+    font-weight: 600;
+    text-align: left;
+    color: #303133;
+  }
+
+  .laius p {
+    width: 20rem;
+    font-size: 14px;
+    font-weight: 300;
+    text-align: justify;
+    margin-top: 15px;
+    color: #777;
+  }
+
+  figcaption {
+    font-size: 12px;
+    font-family: 'OpenSans';
+    color: #777;
+    float: right;
+  }
