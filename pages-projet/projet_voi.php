@@ -11,19 +11,19 @@
     <section class="principal">
       <article class="photo">
         <figure>
-          <img src="../images/projets/VOI/_DSC5793.JPG" alt="projet VOI spray it">
+          <img src="../images/projets/Events/VOI/_DSC5793.JPG" alt="projet VOI spray it">
           <figcaption>Titre de la photo</figcaption>
         </figure>
         <figure>
-          <img src="../images/projets/VOI/_DSC5818.jpg" alt="projet VOI spray it">
+          <img src="../images/projets/Events/VOI/_DSC5818.jpg" alt="projet VOI spray it">
           <figcaption>Titre de la photo</figcaption>
         </figure>
         <figure>
-          <img src="../images/projets/VOI/_DSC6064.JPG" alt="projet VOI spray it">
+          <img src="../images/projets/Events/VOI/_DSC6064.JPG" alt="projet VOI spray it">
           <figcaption>Titre de la photo</figcaption>
         </figure>
         <figure>
-          <img src="../images/projets/VOI/_DSC6066.JPG" alt="projet VOI spray it">
+          <img src="../images/projets/Events/VOI/_DSC6066.JPG" alt="projet VOI spray it">
           <figcaption>Titre de la photo</figcaption>
         </figure>
       </article>

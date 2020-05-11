@@ -139,57 +139,58 @@
     /* --- Caractéristiques générales de la page ----- */
 
     body {
-    animation: fadeIn ease 3s;
-    -webkit-animation: fadeIn ease 3s;
-    -moz-animation: fadeIn ease 3s;
-    -o-animation: fadeIn ease 3s;
-    -ms-animation: fadeIn ease 3s;
+      animation: fadeIn linear .5s;
+      -webkit-animation: fadeIn linear .5s;
+      -moz-animation: fadeIn linear .5s;
+      -o-animation: fadeIn linear .5s;
+      -ms-animation: fadeIn linear .5s;
     }
 
     /* Apparition progressive Body */
+
     @keyframes fadeIn{
-    0% {
-      opacity:0;
-    }
-    100% {
-      opacity:1;
-    }
+      0% {
+        opacity:0.2;
+      }
+      100% {
+        opacity:1;
+      }
     }
 
     @-moz-keyframes fadeIn {
-    0% {
-      opacity:0;
-    }
-    100% {
-      opacity:1;
-    }
+      0% {
+        opacity:0.2;
+      }
+      100% {
+        opacity:1;
+      }
     }
 
     @-webkit-keyframes fadeIn {
-    0% {
-      opacity:0;
-    }
-    100% {
-      opacity:1;
-    }
+      0% {
+        opacity:0.2;
+      }
+      100% {
+        opacity:1;
+      }
     }
 
     @-o-keyframes fadeIn {
-    0% {
-      opacity:0;
-    }
-    100% {
-      opacity:1;
-    }
+      0% {
+        opacity:0.2;
+      }
+      100% {
+        opacity:1;
+      }
     }
 
     @-ms-keyframes fadeIn {
-    0% {
-      opacity:0;
-    }
-    100% {
-      opacity:1;
-    }
+      0% {
+        opacity:0.2;
+      }
+      100% {
+        opacity:1;
+      }
     }
 
     /* ---------------- Section Principale --------------- */
