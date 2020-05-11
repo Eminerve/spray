@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en" dir="ltr">
+<html lang="fr" dir="ltr">
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -7,7 +7,7 @@
     <title>Spray it - Home</title>
   </head>
   <body>
-
+    <!-- Barre de navigation -->
     <nav class="navbar">
       <div class="navbar-container">
         <div class="logo">
@@ -27,7 +27,7 @@
       </div>
     </nav>
 
-    <!-- //TODO: trouver un moyen de slider les photos de départ -->
+    <!-- Banniere en Caroussel -->
     <header id="header">
       <div class="slideshow-container">
         <div class="mySlides fade">
@@ -45,6 +45,7 @@
 
       <br>
 
+      <!-- Points de jauge -->
       <div style="text-align:center">
         <span class="dot"></span>
         <span class="dot"></span>
@@ -52,6 +53,7 @@
       </div>
     </header>
 
+    <!-- Pictogramme cliquable défilement de la page jusqu'à la section intro -->
     <!-- //TODO: changer l'image pour le picto de Nabil -->
     <div class="fleche">
       <a href="#intro"><img src="images/medias/flèche.png"></a>
@@ -59,11 +61,14 @@
     <div id="intro">
 
     </div>
+
+    <!-- Texte de présentation de l'entreprise -->
     <section class="introduction">
       <h1>Spray It</h1><br />
       <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
     </section>
 
+    <!-- Texte de présentation des prestations de l'entreprise avec titre cliquable -->
     <section class="jobs">
       <div class="commissions jobs-container">
         <h2><a href="#">Commissions</a></h2><br />
@@ -84,6 +89,7 @@
       </div>
     </section>
 
+    <!-- Galerie des derniers projets mis en valeur cliquable pour arriver à le page perso -->
     <!-- //TODO: ouvrir les pages de tous les projets -->
     <section class="last_projects">
       <div class="galerie event">
@@ -139,11 +145,9 @@
 						</div>
           </a>
 			</div>
-
-
-
     </section>
 
+    <!-- Photo des références de l'entreprise -->
     <section class="references">
       <div class="ref-container">
         <h2>Who have we worked with ?</h2><br />
@@ -151,11 +155,13 @@
       </div>
     </section>
 
+    <!-- Inclusion de la page 'Footer' -->
     <?php include ('footer.php'); ?>
 
-    <!-- Get jQuery's CDN -->
+    <!-- Lien Script -->
     <script src="https://code.jquery.com/jquery-3.5.0.js"  integrity="sha256-r/AaFHrszJtwpe+tHyNi/XCfMxYpbsRg2Uqn0x3s2zc="  crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="script.js"></script>
+
   </body>
 </html>
