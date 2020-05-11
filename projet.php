@@ -42,7 +42,7 @@
 						</div>
           </a>
 			</div>
-      <div class="galerie comission">
+      <div class="galerie commission">
 			     <a href="pages-projet/Upplands_Bro.php"><img src="images/projets/commissions/Upplands Bro/Bro-Green-tunnel-5.jpg" alt="Upplands Bro" />
              <div class="text">
                <h3>Upplands Bro</h3>
