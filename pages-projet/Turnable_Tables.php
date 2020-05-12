@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="style.css">
-    <title>Spray-it Projet Turnable_Tables</title>
+    <title>Spray-it Projet Turnable Tables</title>
   </head>
   <body>
     <?php include("../nav1.php"); ?>
