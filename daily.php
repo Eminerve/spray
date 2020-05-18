@@ -89,6 +89,45 @@
     <section class="principal">
       <article class="photo">
         <figure>
+          <img src="images/daily/2019/Spring beast 2019.png" alt="daily spray it">
+          <figcaption></figcaption>
+        </figure>
+      </article>
+      <aside class="laius">
+        <h1>Spring Beast Festival</h1>
+        <p>2019</p>
+        <p></p>
+        <p></p>
+      </aside>
+    </section>
+
+    <section class="principal">
+      <article class="photo">
+        <figure>
+          <img src="images/daily/2018/The Crazy sheeps_1.jpg" alt="daily spray it">
+          <figcaption></figcaption>
+        </figure>
+        <figure>
+          <img src="images/daily/2018/The Crazy sheeps_2.jpg" alt="daily spray it">
+          <figcaption></figcaption>
+        </figure>
+        <figure>
+          <img src="images/daily/2018/The Crazy sheeps_3.jpg" alt="daily spray it">
+          <figcaption></figcaption>
+        </figure>
+      </article>
+      <aside class="laius">
+        <h1>The Crazy sheeps</h1>
+        <p>2018</p>
+        <p></p>
+        <p></p>
+      </aside>
+    </section>
+
+
+    <section class="principal">
+      <article class="photo">
+        <figure>
           <img src="images/daily/2017/Aztek.jpg" alt="daily spray it">
           <figcaption></figcaption>
         </figure>

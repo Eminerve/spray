@@ -31,15 +31,23 @@
     <header id="header">
       <div class="slideshow-container">
         <div class="mySlides fade">
-          <img src="images/projets/Events/VOI/_DSC5913.JPG" style="width:100%">
+          <img src="images/projets/Events/VOI/_DSC5975.JPG" style="width:100%">
         </div>
 
         <div class="mySlides fade">
-          <img src="images/projets/Sickla/IMG_6436.jpeg" style="width:100%">
+          <img src="images/projets/Sickla/KSU_2153.jpg" style="width:100%">
+        </div>
+
+        <div class="mySlides fade">
+          <img src="images/projets/Sickla/KSU_2211.jpg" style="width:100%">
         </div>
 
         <div class="mySlides fade">
           <img src="images/projets/Events/Turnable_Tables/IMG_8156.jpeg" style="width:100%">
+        </div>
+
+        <div class="mySlides fade">
+          <img src="images/projets/Events/VOI/_DSC5818.jpg" style="width:100%">
         </div>
       </div>
 
@@ -47,6 +55,8 @@
 
       <!-- Points de jauge -->
       <div style="text-align:center">
+        <span class="dot"></span>
+        <span class="dot"></span>
         <span class="dot"></span>
         <span class="dot"></span>
         <span class="dot"></span>
@@ -65,27 +75,29 @@
     <!-- Texte de présentation de l'entreprise -->
     <section class="introduction">
       <h1>Spray It</h1><br />
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+      <p>Spray it is a creative agency of international street artists based in Stockholm working with art and graphic design. Spray it was founded in 2016 created to share our passion of graffiti and to make it more accessible for a Swedish audience. The aim is to develop all types of projects related to urban creation.</p><br>
+      <p>Spray it provide a wide range of services to its clients and partners. Earlier projects include educational courses for adults and kids, wall-paintings for individuals and companies, graphic design and collaborations with product designers. The agency has also produced original exhibitions showcasing Swedish and International artists. We create the environment for your individual needs. Transform the look of your company to highlight your particular vibe and leave a lasting impression with your clients.</p> <br>
+      <p>We take care of all your needs for art and graphic design, even offering courses in street art for adults as well as kids.</p>
     </section>
 
     <!-- Texte de présentation des prestations de l'entreprise avec titre cliquable -->
     <section class="jobs">
       <div class="commissions jobs-container">
         <h2><a href="#">Commissions</a></h2><br />
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <p>SPRAY IT offers tailored decorations for public environments, bars and restaurants, stands, meeting rooms, showrooms, product boards and more. Each creation is a unique and intimate collaboration between our team and yours.</p>
       </div>
 
       <div class="workshop jobs-container">
         <h2><a href="workshop.php">Workshop</a></h2><br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <p>Our graffiti workshops for adults, teenagers, and children, are based in promoting social connections, developing a relationship to art and expression. The workshops are designed to encourage listening, sharing, thinking and searching.</p>
       </div>
       <div class="graphique jobs-container">
         <h2><a href="#">Graphique Design</a></h2><br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <p>We take care of all your needs for art and graphic design.</p>
       </div>
       <div class="events jobs-container">
         <h2><a href="#">Events</a></h2><br>
-        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</p>
+        <p>Exhibitions, live paintings, and cellograffs are new ways to help you catch the attention of a new audience. Painting is also a way to promote better teamwork as a team building event, and to further the personal development your team and their imagination.</p>
       </div>
     </section>
 
