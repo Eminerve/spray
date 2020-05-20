@@ -11,20 +11,20 @@
     <section class="principal">
       <article class="photo">
         <figure>
-          <img src="../images/projets/Sickla/IMG_6436.jpeg" alt="projet Sickla spray it">
-          <figcaption>Titre de la photo</figcaption>
+          <img src="../images/projets/Commissions/Sickla/KSU_2153.jpg" alt="projet Sickla spray it">
+          <figcaption></figcaption>
         </figure>
         <figure>
-          <img src="../images/projets/Sickla/IMG_6435.jpeg" alt="projet Sickla spray it">
-          <figcaption>Titre de la photo</figcaption>
+          <img src="../images/projets/Commissions/Sickla/KSU_2161.jpg" alt="projet Sickla spray it">
+          <figcaption></figcaption>
         </figure>
         <figure>
-          <img src="../images/projets/Sickla/IMG_6434.jpeg" alt="projet Sickla spray it">
-          <figcaption>Titre de la photo</figcaption>
+          <img src="../images/projets/Commissions/Sickla/KSU_2197.jpg" alt="projet Sickla spray it">
+          <figcaption></figcaption>
         </figure>
         <figure>
-          <img src="../images/projets/Sickla/57426694878__844E5059-7499-440A-9409-15C97899512B.jpg" alt="projet Sickla spray it">
-          <figcaption>Titre de la photo</figcaption>
+          <img src="../images/projets/Commissions/Sickla/KSU_2211.jpg" alt="projet Sickla spray it">
+          <figcaption></figcaption>
         </figure>
       </article>
       <aside class="laius">

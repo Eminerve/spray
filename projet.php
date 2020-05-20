@@ -27,7 +27,7 @@
           </a>
 			</div>
       <div class="galerie workshop">
-			     <a href="pages-projet/projet_sickla.php"><img src="images/projets/Sickla/IMG_6436.jpeg" alt="Sickla" />
+			     <a href="pages-projet/projet_sickla.php"><img src="images/projets/Commissions/Sickla/KSU_2153.jpg" alt="Sickla" />
              <div class="text">
                <h3>Sickla</h3>
                <p><em>14.03.19</em></p>

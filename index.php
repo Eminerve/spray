@@ -35,11 +35,11 @@
         </div>
 
         <div class="mySlides fade">
-          <img src="images/projets/Sickla/KSU_2153.jpg" style="width:100%">
+          <img src="images/projets/Commissions/Sickla/KSU_2153.jpg" style="width:100%">
         </div>
 
         <div class="mySlides fade">
-          <img src="images/projets/Sickla/KSU_2211.jpg" style="width:100%">
+          <img src="images/projets/Commissions/Sickla/KSU_2211.jpg" style="width:100%">
         </div>
 
         <div class="mySlides fade">
@@ -123,7 +123,7 @@
       </div>
 
       <div class="galerie commission">
-           <a href="pages-projet/St._Eriksgatan_66.php"><img src="images/projets/commissions/St. Eriksgatan 66/wall66_21.jpg" alt="St. Eriksgatan 66" />
+           <a href="pages-projet/St._Eriksgatan_66.php"><img src="images/projets/Commissions/St. Eriksgatan 66/wall66_21.jpg" alt="St. Eriksgatan 66" />
              <div class="text">
                <h3>St. Eriksgatan 66</h3>
                <p><em>08.05.15</em></p>
@@ -131,8 +131,8 @@
           </a>
       </div>
 
-      <div class="galerie workshop">
-			     <a href="pages-projet/projet_sickla.php"><img src="images/projets/Sickla/IMG_6436.jpeg" alt="Sickla" />
+      <div class="galerie commission">
+			     <a href="pages-projet/projet_sickla.php"><img src="images/projets/Commissions/Sickla/KSU_2153.jpg" alt="Sickla" />
              <div class="text">
                <h3>Sickla</h3>
                <p><em>14.03.19</em></p>
