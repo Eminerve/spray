@@ -3,6 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preload" href="style_projets.css" as="style">
+    <link rel="preload" href="script.js" as="script">
+
+    <link rel="stylesheet" href="style_projets.css">
     <title>Spray it-Projects</title>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
   </head>
@@ -26,7 +30,7 @@
 						</div>
           </a>
 			</div>
-      <div class="galerie workshop">
+      <div class="galerie commission">
 			     <a href="pages-projet/projet_sickla.php"><img src="images/projets/Commissions/Sickla/KSU_2153.jpg" alt="Sickla" />
              <div class="text">
                <h3>Sickla</h3>
@@ -92,195 +96,7 @@
 
 
   </body>
-  <style>
-  @font-face {
-    font-family: 'OpenSans';
-    src: url('fonts/OpenSans-Light.ttf');
-    font-style: normal;
-    font-weight: 300;
-    font-display: swap;
-  }
 
-  @font-face {
-    font-family: 'OpenSans';
-    font-style: normal;
-    font-weight: 400;
-    font-display: swap;
-    src: url('fonts/OpenSans-Regular.ttf');
-  }
-
-  *{
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-
-  html{
-    font-size: 14px;
-    font-family: 'OpenSans',halvetica, sans-serif,serif;
-    color: #303133;
-  }
-
-  body {
-    animation: fadeIn linear .5s;
-    -webkit-animation: fadeIn linear .5s;
-    -moz-animation: fadeIn linear .5s;
-    -o-animation: fadeIn linear .5s;
-    -ms-animation: fadeIn linear .5s;
-  }
-
-
-  @keyframes fadeIn{
-    0% {
-      opacity:0.2;
-    }
-    100% {
-      opacity:1;
-    }
-  }
-
-  @-moz-keyframes fadeIn {
-    0% {
-      opacity:0.2;
-    }
-    100% {
-      opacity:1;
-    }
-  }
-
-  @-webkit-keyframes fadeIn {
-    0% {
-      opacity:0.2;
-    }
-    100% {
-      opacity:1;
-    }
-  }
-
-  @-o-keyframes fadeIn {
-    0% {
-      opacity:0.2;
-    }
-    100% {
-      opacity:1;
-    }
-  }
-
-  @-ms-keyframes fadeIn {
-    0% {
-      opacity:0.2;
-    }
-    100% {
-      opacity:1;
-    }
-  }
-
-
-  #menu_selec{
-    padding-top: 8rem;
-    margin: auto;
-    display: flex;
-    text-transform: uppercase;
-    justify-content: center;
-    align-items: center;
-    align-content: center;
-    color: #CCCCCC;
-    width: 100%;
-  }
-
-  #menu_selec ul {
-    margin: auto;
-    list-style: none;
-  }
-
-  #menu_selec ul li{
-    font-weight: 300;
-    display: inline-block;
-    padding: 1rem .5rem;
-    cursor: pointer;
-    font-size: 16px;
-  }
-
-  #menu_selec ul li:hover{
-    color: #303133;
-    font-weight: 300;
-  }
-
-  .projects{
-    width: 95%;
-    padding-top: 1rem;
-    padding-bottom: 2rem;
-    margin: auto;
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: center;
-    font-family: 'OpenSans';
-  }
-
-  .galerie
-  {
-  	position: relative;
-  	width: 350px;
-  	margin-left: 8px;
-  	margin-right: 8px;
-  	margin-bottom: 16px;
-  	margin-top: 0;
-  }
-
-  .galerie img
-  {
-  	display: block;
-  	width: 100%;
-  	height: 250px;
-  }
-
-  .galerie .text
-  {
-  	visibility: hidden;
-  	text-align: center;
-  	position: absolute;
-  	transform: translate(-50%, -50%);
-  }
-
-  .galerie:hover .text h3{
-    text-transform: uppercase;
-    font-size: 29px;
-    line-height: 29px;
-    color: #303133;
-    font-weight: 300;
-  }
-
-  .galerie:hover .text em{
-    font-style: normal;
-    font-size: 16px;
-    color: #777;
-    line-height: 24px;
-    font-weight: 300;
-  }
-  	/*---Avec hover---*/
-
-  .galerie:hover .text
-  {
-  	visibility: visible;
-  	color: #000;
-  	line-height: 150%;
-  	text-align: center;
-  	position: absolute;
-  	top: 50%;
-  	left: 50%;
-  	transform: translate(-50%, -50%);
-  	width: 100%;
-    transition: visibility 1s;
-  }
-
-  .galerie:hover img
-  {
-  	width: 100%;
-  	height: 250px;
-    opacity: 0.15;
-    transition: opacity 0.5s;
-  }
-  </style>
   <script>
   $(document).ready(function(){
     $("#bouton_tout").click(function(){

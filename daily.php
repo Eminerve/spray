@@ -3,6 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="preload" href="#style_daily" as="style">
+    <link rel="stylesheet" href="scroll.css">
+
     <title>Spray-it Daily</title>
   </head>
   <body>
@@ -30,7 +34,7 @@
       </aside>
     </section> -->
 
-    <section class="principal">
+    <section class="principal show-on-scroll">
       <article class="photo">
         <figure>
           <img src="images/daily/2020/Holem-Covid-19-City-web.jpg" alt="daily spray it">
@@ -47,12 +51,12 @@
 
     <section class="principal">
       <article class="photo">
-        <figure>
-          <img src="images/daily/2020/Ma╠èlning-2020-03-08-07-WEB.jpg" alt="daily spray it">
+        <figure >
+          <img class="inline-photo show-on-scroll" src="images/daily/2020/Ma╠èlning-2020-03-08-07-WEB.jpg" alt="daily spray it">
           <figcaption></figcaption>
         </figure>
-        <figure>
-          <a href="images/daily/2020/Ma╠èlning 2020-03-08-ok.jpg"><img src="images/daily/2020/Ma╠èlning 2020-03-08-ok.jpg" alt="daily spray it"></a>
+        <figure >
+          <a href="images/daily/2020/Ma╠èlning 2020-03-08-ok.jpg"><img class="inline-photo show-on-scroll" src="images/daily/2020/Ma╠èlning 2020-03-08-ok.jpg" alt="daily spray it"></a>
           <figcaption></figcaption>
         </figure>
       </article>
@@ -68,11 +72,11 @@
     <section class="principal">
       <article class="photo">
         <figure>
-          <img src="images/daily/2020/Peace Love Unity 2.jpg" alt="daily spray it">
+          <img src="images/daily/2020/Peace Love Unity 2.jpg" class="inline-photo show-on-scroll" alt="daily spray it">
           <figcaption></figcaption>
         </figure>
         <figure>
-          <a href="images/daily/2020/Peace Love Unity 2020-04-25 web.jpg"><img src="images/daily/2020/Peace Love Unity 2020-04-25 web.jpg" alt="daily spray it"></a>
+          <a href="images/daily/2020/Peace Love Unity 2020-04-25 web.jpg"><img class="inline-photo show-on-scroll" src="images/daily/2020/Peace Love Unity 2020-04-25 web.jpg" alt="daily spray it"></a>
           <figcaption></figcaption>
         </figure>
       </article>
@@ -89,7 +93,7 @@
     <section class="principal">
       <article class="photo">
         <figure>
-          <img src="images/daily/2019/Spring beast 2019.png" alt="daily spray it">
+          <img class="inline-photo show-on-scroll" src="images/daily/2019/Spring beast 2019.png" alt="daily spray it">
           <figcaption></figcaption>
         </figure>
       </article>
@@ -104,15 +108,15 @@
     <section class="principal">
       <article class="photo">
         <figure>
-          <img src="images/daily/2018/The Crazy sheeps_1.jpg" alt="daily spray it">
+          <img class="inline-photo show-on-scroll" src="images/daily/2018/The Crazy sheeps_1.jpg" alt="daily spray it">
           <figcaption></figcaption>
         </figure>
         <figure>
-          <img src="images/daily/2018/The Crazy sheeps_2.jpg" alt="daily spray it">
+          <img class="inline-photo show-on-scroll" src="images/daily/2018/The Crazy sheeps_2.jpg" alt="daily spray it">
           <figcaption></figcaption>
         </figure>
         <figure>
-          <img src="images/daily/2018/The Crazy sheeps_3.jpg" alt="daily spray it">
+          <img class="inline-photo show-on-scroll" src="images/daily/2018/The Crazy sheeps_3.jpg" alt="daily spray it">
           <figcaption></figcaption>
         </figure>
       </article>
@@ -128,11 +132,11 @@
     <section class="principal">
       <article class="photo">
         <figure>
-          <img src="images/daily/2017/Aztek.jpg" alt="daily spray it">
+          <img class="inline-photo show-on-scroll" src="images/daily/2017/Aztek.jpg" alt="daily spray it">
           <figcaption></figcaption>
         </figure>
         <figure>
-          <a href="images/daily/2017/Aztec-Kash-Holem-Rymd.jpg"><img src="images/daily/2017/Aztec-Kash-Holem-Rymd.jpg" alt="daily spray it"></a>
+          <a href="images/daily/2017/Aztec-Kash-Holem-Rymd.jpg"><img class="inline-photo show-on-scroll" src="images/daily/2017/Aztec-Kash-Holem-Rymd.jpg" alt="daily spray it"></a>
           <figcaption></figcaption>
         </figure>
       </article>
@@ -147,7 +151,7 @@
     <!-- inclusion du pied de pages -->
     <?php include("footer.php"); ?>
 
-    <style>
+    <style id="style_daily">
 
     /* ---------------- Fonts de la page --------------- */
 
@@ -287,6 +291,8 @@
     }
 
     </style>
+    <script src="show-on-scroll">
 
+    </script>
   </body>
 </html>

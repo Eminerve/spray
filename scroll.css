@@ -1,0 +1,17 @@
+
+
+.inline-photo {
+
+  opacity: 0;
+  -webkit-transition: opacity .4s .3s ease-out;
+  transition: opacity .4s .3s ease-out;
+  transition: opacity .4s .3s ease-out;
+  transition: opacity .4s .3s ease-out,
+
+  width: 90%;
+  will-change: opacity;
+}
+
+.inline-photo.is-visible {
+  opacity: 1;
+}

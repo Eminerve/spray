@@ -16,7 +16,7 @@
           <li> <a href="mailto:sprayit.collective@gmail.com" target="_blank"> <img src="../images/medias/ml_nr.png" alt=""> </a> </li>
         </ul>
         <div class="para">
-          <p>+46 (0) 73 617 95 11 - sprayit.collective@gmail.com</p>
+          <p>+46 (0) 73 617 95 11 - <a href="mailto:sprayit.collective@gmail.com" target="_blank">sprayit.collective@gmail.com</a></p>
           <p><a href="https://www.google.com/search?q=BORGARGATAN+2%2C+117+34+Stockholm&oq=BORGARGATAN+2%2C+117+34+Stockholm&aqs=chrome..69i57.3980j0j7&sourceid=chrome&ie=UTF-8" target="_blank">Borgargatan 2  - 117 34 Stockholm</a></p>
           <p>© 2020 - SPRAY IT. ALL RIGHTS RESERVED</p>
         </div>
